@@ -284,7 +284,7 @@ This functionality uses the excellent [sphinxcontrib-bibtex](https://sphinxcontr
    {cite}`perez2011python`
    ```
 
-   generates this citation: {cite}`perez2011python`
+   generates this citation: {cite}`LisaZhang2019autoencoder`
 
    You can also include multiple citations in one go, like so:
 
